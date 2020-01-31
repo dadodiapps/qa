@@ -1,0 +1,19 @@
+[
+
+{"number":"1","name":"Al Jazeera Arabic","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/qa/master/jazira.png","streamUrl":"http://66.226.10.51:8000/AljazeeraArabic?type=.mp3/;stream.mp3","yourmuzeId":"0","state":"1"},
+{"number":"2","name":"Radio Sawa Qatar","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/qa/master/sawagulf.png","streamUrl":"http://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamaistream.net/mbn_channel_03?type=.mp3/;stream.mp3","yourmuzeId":"0","state":"1"},
+{"number":"3","name":"Monte Carlo Doualiya","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/qa/master/monicarlo.jpg","streamUrl":"http://live02.mc-doualiya.com/mc-doualiya.mp3","yourmuzeId":"0","state":"1"},
+{"number":"4","name":"Radio Al Jazeera English","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/qa/master/jazira.png","streamUrl":"http://live-hls-audio-web-aje.getaj.net/VOICE-AJE/01.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"5","name":"Sout Al Khaleej FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/qa/master/sotkhalij.jpg","streamUrl":"http://ruby.streamguys.com:8120/sar-qatar-2","yourmuzeId":"0","state":"1"},
+{"number":"6","name":"Qatar2022","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/qa/master/qatar2022.jpg","streamUrl":"http://listen.radionomy.com/qatar2022","yourmuzeId":"0","state":"1"},
+{"number":"7","name":"Moni FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/qa/master/monifm.jpg","streamUrl":"http://streaming.radionomy.com/MoniFM100","yourmuzeId":"0","state":"1"},
+{"number":"8","name":"Uthamiyae FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/qa/master/Uthamiyae.jpg","streamUrl":"http://uthamiyaefm.serverroom.us:4712","yourmuzeId":"0","state":"1"},
+{"number":"9","name":"Radio Olive","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/qa/master/olive.jpg","streamUrl":"http://20863.live.streamtheworld.com/OLIVE1063AAC_SC","yourmuzeId":"0","state":"1"},
+{"number":"10","name":"Abdulbasit Abdulsamad Radio","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/qa/master/abdulbasit-abdulsamad.jpg","streamUrl":"http://184.173.185.71:9974/;","yourmuzeId":"0","state":"1"},
+{"number":"11","name":"Sout Al Rayyan","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/qa/master/rayan.jpg","streamUrl":"https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"12","name":"Sout Al-Khaleej 100.8 FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/qa/master/sawtlkhalij.png","streamUrl":"http://icy-e-01-cr.sharp-stream.com/spectrum4.mp3","yourmuzeId":"0","state":"1"},
+{"number":"13","name":"Radio Sawa Qatar","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/qa/master/sawagulf.png","streamUrl":"http://mbn-channel-06.akacast.akamaistream.net/7/28/233455/v1/ibb.akacast.akamaistream.net/mbn_channel_06?type=.mp3/;stream.mp3","yourmuzeId":"0","state":"1"},
+{"number":"14","name":"Radio WARDIAT","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/qa/master/wardiyat.jpg","streamUrl":"http://192.184.9.81:8008/;stream/1","yourmuzeId":"0","state":"1"}
+{"number":"15","name":"Radio Suno","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/qa/master/sono.jpg","streamUrl":"http://21313.live.streamtheworld.com/SUNO917.mp3","yourmuzeId":"0","state":"1"}
+
+]
