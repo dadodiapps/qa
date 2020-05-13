@@ -1,6 +1,7 @@
 {"success":true,"message":"","radios":
 [
 
+{"number":"1","name":"إذاعة القرآن الكريم من الدوحة","description":"","logo":"/القرآن الكريم.png","streamUrl":"http://52.178.28.223:1935/QURAN/myStream/chunklist_w937161845.m3u8","yourmuzeId":"0","state":"1"},
 
 {"number":"2","name":"Radio Sawa Qatar","description":"","logo":"/sawagulf.png","streamUrl":"http://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamaistream.net/mbn_channel_03?type=.mp3/;stream.mp3","yourmuzeId":"0","state":"1"},
 {"number":"5","name":"Sout Al Khaleej FM","description":"","logo":"/sotkhalij.jpg","streamUrl":"http://ruby.streamguys.com:8120/sar-qatar-2","yourmuzeId":"0","state":"1"},
