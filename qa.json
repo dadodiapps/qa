@@ -17,8 +17,14 @@
 {"number":"15","name":"Radio Suno","description":"","logo":"/sono.jpg","streamUrl":"http://21313.live.streamtheworld.com/SUNO917.mp3","yourmuzeId":"0","state":"1"},
 {"number":"16","name":"qatar radio(إذاعة قطر)","description":"","logo":"/qatar radio.png","streamUrl":"http://52.178.28.223:1935/QRS/myStream/chunklist_w951796592.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"17","name":"Al-Rayyan TV 1","description":"","logo":"/Al-Rayyan TV 1.jpg","streamUrl":"https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/alrayyanpublish/alrayyan_360p/chunks.m3u8","yourmuzeId":"0","state":"1"},
-{"number":"18","name":"qatar radio(إذاعة قطر)","description":"","logo":"/qatar radio.png","streamUrl":"http://52.178.28.223:1935/QRS/myStream/chunklist_w951796592.m3u8","yourmuzeId":"0","state":"1"},
-{"number":"19","name":"qatar radio(إذاعة قطر)","description":"","logo":"/qatar radio.png","streamUrl":"http://52.178.28.223:1935/QRS/myStream/chunklist_w951796592.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"18","name":"Malayalam FM Qatar","description":"","logo":"/Malayalam FM.jpg","streamUrl":"http://52.178.28.223:1935/QRS/myStream/chunklist_w951796592.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"19","name":"QMC Qatar Radio Urdu","description":"","logo":"/QMC Qatar Radio Urdu.png","streamUrl":"http://52.178.28.223:1935/URDU/myStream/chunklist_w1816519874.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"20","name":"QN Radio - Qatar Nepal","description":"","logo":"/QN Radio - Qatar Nepal.png","streamUrl":"http://fmstream.org/dummy.mp3","yourmuzeId":"0","state":"1"},
+{"number":"21","name":"Uthamiyae FM","description":"","logo":"/Uthamiyae FM.jpg","streamUrl":"http://uthamiyaefm.serverroom.us:4712/;","yourmuzeId":"0","state":"1"},
+{"number":"22","name":"Sout Al-Khaleej 100.8 FM","description":"","logo":"/sawtlkhalij.png","streamUrl":"http://icy-e-01-cr.sharp-stream.com/spectrum4.mp3","yourmuzeId":"0","state":"1"},
+{"number":"23","name":"Sout Al-Khaleej 100.8 FM","description":"","logo":"/sawtlkhalij.png","streamUrl":"http://icy-e-01-cr.sharp-stream.com/spectrum4.mp3","yourmuzeId":"0","state":"1"},
+{"number":"24","name":"Sout Al-Khaleej 100.8 FM","description":"","logo":"/sawtlkhalij.png","streamUrl":"http://icy-e-01-cr.sharp-stream.com/spectrum4.mp3","yourmuzeId":"0","state":"1"},
+{"number":"25","name":"Sout Al-Khaleej 100.8 FM","description":"","logo":"/sawtlkhalij.png","streamUrl":"http://icy-e-01-cr.sharp-stream.com/spectrum4.mp3","yourmuzeId":"0","state":"1"},
 
 
 
